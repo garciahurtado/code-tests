@@ -1,0 +1,150 @@
+149
+Qb 1 5
+Qb 15 1
+Qb 1 2
+Qr 3 4
+Qb 2 4
+Qr 2 4
+Qb 4 2
+Qr 4 2
+Qb 4 1
+Qr 4 1
+Qb 5 1
+Qr 5 1
+Qb 1 4
+Qr 1 4
+Qb 15 1
+Qb 1 1
+Qb 15 15
+Qb 2 2
+Qi
+Qi
+Qi
+Qb 4 5
+Qr 4 8
+Qr 9 15
+Qb 1 444999777
+Qb 444999777 1
+Qb 100 444999777
+Qb 444999777 100
+Qr 1 444999777
+Qr 444999777 1
+Qr 100 444999777
+Qr 444999777 100
+Qi
+Qb 1 444999776
+Qb 444999776 1
+Qb 100 444999776
+Qb 444999777 100
+Qr 2 444999777
+Qr 444999776 2
+Qr 100 444999777
+Qr 444999777 100
+Qi
+Qi
+Qr 4 5
+Qi
+Qi
+Qi
+Qr 4 5
+Qb 4 5
+Qr 4 5
+Qi
+Qi
+Qi
+Qb 4 5
+Qr 4 5
+Qr 9 15
+Qb 666555444 444999777
+Qi
+Qi
+Qi
+Qr 4 5
+Qi
+Qi
+Qi
+Qr 4 5
+Qb 4 5
+Qr 4 5
+Qi
+Qi
+Qi
+Qb 4 5
+Qr 4 5
+Qr 9 15
+Qb 666555444 444999777
+Qi
+Qi
+Qi
+Qr 4 5
+Qi
+Qi
+Qi
+Qr 4 5
+Qb 4 5
+Qr 4 5
+Qi
+Qi
+Qi
+Qb 4 5
+Qr 4 5
+Qr 9 15
+Qb 666555444 444999777
+Qi
+Qi
+Qi
+Qr 4 5
+Qi
+Qi
+Qi
+Qr 4 5
+Qb 4 5
+Qr 4 5
+Qi
+Qi
+Qi
+Qb 4 5
+Qr 4 5
+Qr 9 15
+Qb 666555444 444999777
+Qi
+Qi
+Qi
+Qr 4 5
+Qi
+Qi
+Qi
+Qr 4 5
+Qb 4 5
+Qr 4 5
+Qi
+Qi
+Qi
+Qb 4 5
+Qr 4 5
+Qr 9 15
+Qb 666555444 444999777
+Qi
+Qi
+Qi
+Qr 4 5
+Qi
+Qi
+Qi
+Qr 4 5
+Qb 4 5
+Qr 4 5
+Qi
+Qi
+Qb 4 5
+Qr 4 5
+Qr 9 15
+Qb 333277722 444999777
+Qi
+Qi
+Qi
+Qr 4 5
+Qi
+Qi
+Qi
+Qr 4 5
