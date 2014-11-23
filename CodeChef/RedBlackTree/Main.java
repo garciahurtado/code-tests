@@ -21,6 +21,7 @@ public class Main {
 			Pattern pattern = Pattern.compile("^([A-z]{2})(\\s(\\d+)\\s(\\d+))?");
 			BufferedReader buffer = new BufferedReader(new InputStreamReader(System.in));
 			numInstructions = Integer.parseInt( buffer.readLine()); 
+			 
 
 			while (true) {
 				String line = buffer.readLine();
