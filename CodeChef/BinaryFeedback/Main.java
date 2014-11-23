@@ -1,4 +1,4 @@
-package BinaryFeedback;
+package CodeChef.BinaryFeedback;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
